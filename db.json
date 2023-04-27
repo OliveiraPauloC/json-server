@@ -1,6 +1,45 @@
 {
   "episodes": [
     {
+      "id": "dungeons-and-dragons-acabou-a-galhofa",      
+      "title": "NerdCast 878 | Dungeons & Dragons: Acabou a galhofa!",
+      "members": "Alexandre Ottoni, Deive Pazos, Ale Santos, Carlos Voltor, Katiucha Barcelos, Leonel Caldela e Marcelo Bassoli",
+      "published_at": "2023-04-21 09:45:10",
+      "thumbnail": "https://uploads.jovemnerd.com.br/wp-content/uploads/2023/04/nc878_dd_filme3__2u792owv1-1210x544.jpg",
+      "description": "<p>Está sacramentado, acabou a galhofa! Vinte anos depois daquela péssima adaptação, hoje podemos dizer que temos um bom filme de Dungeons & Dragons! Honra Entre Rebeldes é um filme bom e vamos discutir COM SPOILERS nesse programa.</p><p><i>O Nerdcast completou 10 anos em 2016 com 1 milhão de downloads por episódio e como primeiro lugar de audiência em podcasts no Brasil. Os assuntos são história, ciência, cinema, quadrinhos, literatura, tecnologia, games, RPG… Tudo que um nerd gosta! A conversa é informal, divertida, escrachada e tão doida quanto séria. Quer dizer, tão séria quanto doida! Junte-se aos convidados de Alexandre “Jovem Nerd” Ottoni e Deive “Azaghal” Pazos e faça parte da roda das discussões mais nerds da internet. Toda sexta-feira  •  Duração média: 90 minutos</i></p>",
+      "file": {
+        "url": "https://nerdcast.jovemnerd.com.br/nerdcast_878_dd.mp3",
+        "type": "audio/mp3",
+        "duration": 5537
+      }
+    },
+    {
+      "id": "super-mario-bros-isso-e-cinema",      
+      "title": "NerdCast 877 | Super Mario Bros: Isso é cinema! A maldição está em outro castelo!",
+      "members": "Alexandre Ottoni, Deive Pazos, Carlos Voltor, Katiucha Barcelos, Mau Faccio e Vitor Rossi",
+      "published_at": "2023-04-14 09:25:10",
+      "thumbnail": "https://uploads.jovemnerd.com.br/wp-content/uploads/2023/04/nc877_super_mario_bros__e2w7yit4-1210x544.jpg",
+      "description": "<p>Sim, nerds! A maldição que começou com a primeira adaptação é encerrada! Vamos falar do novo filme de Super Mario Bros com Spoilers!</p><p><i>O Nerdcast completou 10 anos em 2016 com 1 milhão de downloads por episódio e como primeiro lugar de audiência em podcasts no Brasil. Os assuntos são história, ciência, cinema, quadrinhos, literatura, tecnologia, games, RPG… Tudo que um nerd gosta! A conversa é informal, divertida, escrachada e tão doida quanto séria. Quer dizer, tão séria quanto doida! Junte-se aos convidados de Alexandre “Jovem Nerd” Ottoni e Deive “Azaghal” Pazos e faça parte da roda das discussões mais nerds da internet. Toda sexta-feira  •  Duração média: 90 minutos</i></p>",
+      "file": {
+        "url": "https://nerdcast.jovemnerd.com.br/nerdcast_877_mario.mp3",
+        "type": "audio/mp3",
+        "duration": 6426
+      }
+    },
+    {
+      "id": "qual-e-a-pauta-criancas-indigo-dentista-e-garrafa-de-camisinha",      
+      "title": "NerdCast 876 | Qual é a pauta? Crianças índigo, dentista e garrafa de camisinha",
+      "members": "Alexandre Ottoni, Deive Pazos, Katiucha Barcelos, Pedro Duarte e Sr.K",
+      "published_at": "2023-04-07 09:34:23",
+      "thumbnail": "https://uploads.jovemnerd.com.br/wp-content/uploads/2023/04/nc876_sem_pauta_13__pofa702y-1210x544.jpg",
+      "description": "<p>Prepare-se para expelir uma pedra no rim e medir o tamanho da sua dor. Evite vomitar na celebridade que está na sua frente e arranque esse dente podre aí!</p><p><i>O Nerdcast completou 10 anos em 2016 com 1 milhão de downloads por episódio e como primeiro lugar de audiência em podcasts no Brasil. Os assuntos são história, ciência, cinema, quadrinhos, literatura, tecnologia, games, RPG… Tudo que um nerd gosta! A conversa é informal, divertida, escrachada e tão doida quanto séria. Quer dizer, tão séria quanto doida! Junte-se aos convidados de Alexandre “Jovem Nerd” Ottoni e Deive “Azaghal” Pazos e faça parte da roda das discussões mais nerds da internet. Toda sexta-feira  •  Duração média: 90 minutos</i></p>",
+      "file": {
+        "url": "https://nerdcast.jovemnerd.com.br/nerdcast_876_sem_pauta.mp3",
+        "type": "audio/mp3",
+        "duration": 7001
+      }
+    },
+    {
       "id": "tecnologias-do-futuro-4-ai-e-chatgpt",      
       "title": "NerdCast 875 | Tecnologias do Futuro 4: AI e ChatGPT",
       "members": "Alexandre Ottoni, Deive Pazos, André Souza, Caio Gomes, Camila Laranjeira e Marcio Lena",
